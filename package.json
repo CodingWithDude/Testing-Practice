@@ -1,0 +1,25 @@
+{
+  "name": "testing-practice",
+  "version": "1.0.0",
+  "description": "Testing Practice with Jest for The Odin Project",
+  "main": "index.js",
+  "scripts": {
+    "jest": "jest",
+    "watch": "jest --watch *.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CodingWithDude/Testing-Practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CodingWithDude/Testing-Practice/issues"
+  },
+  "homepage": "https://github.com/CodingWithDude/Testing-Practice#readme",
+  "devDependencies": {
+    "@babel/preset-env": "^7.18.9",
+    "jest": "^28.1.3"
+  }
+}
